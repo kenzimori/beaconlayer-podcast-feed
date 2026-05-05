@@ -93,6 +93,7 @@
       <podcast:episode>6</podcast:episode>
       <itunes:explicit>false</itunes:explicit>
       <pubDate>Sat, 22 Apr 2026 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_110541_9de91ae89fa52116cb9276e1f85b1ad0.png"/>
     </item>
     <item>
       <title><![CDATA[Nick Emmons | Co-Founder & CEO of Allora Labs — The Synergies Between Web3 and AI]]></title>
