@@ -6,8 +6,7 @@
     <link>https://rss.com/podcasts/beaconlayer-podcast</link>
     <atom:link href="https://media.rss.com/beaconlayer-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
-    <description><![CDATA[<p><strong>BeaconLayer Podcast takes listeners inside the real stories behind the companies shaping web3.</strong></p><p>Hosted by the BeaconLayer team, each episode features long-form conversations with founders, builders, and operators who are turning ideas into products, teams, and ecosystems.</p><p>We go beyond headlines, announcements, and polished launch threads to understand what building actually looks like: the early conviction, the products shipped, the things that broke, the hiring decisions, the hard pivots, the near-death moments, and the choices that ultimately made it work.</p><p>This is web3 from the builder’s side — the wins, the chaos, the mistakes, and the lessons you won’t find on the timeline.</p>]]></description>
-    <generator>RSS.com 2026.428.112250</generator>
+    <description><![CDATA[BeaconLayer Podcast takes listeners inside the real stories behind the companies shaping web3. Hosted by the BeaconLayer team, each episode features long-form conversations with founders, builders, and operators who are turning ideas into products, teams, and ecosystems. We go beyond headlines, announcements, and polished launch threads to understand what building actually looks like: the early conviction, the products shipped, the things that broke, the hiring decisions, the hard pivots, the near-death moments, and the choices that ultimately made it work. This is web3 from the builder’s side — the wins, the chaos, the mistakes, and the lessons you won’t find on the timeline.]]></description>    <generator>RSS.com 2026.428.112250</generator>
     <lastBuildDate>Tue, 05 May 2026 20:40:16 GMT</lastBuildDate>
     <language>en</language>
     <itunes:image href="https://media.rss.com/beaconlayer-podcast/podcast_cover_20260505_120508_2dd6daa282cc5301891604f4955f880a.png"/>
@@ -41,7 +40,7 @@
       <itunes:episode>9</itunes:episode>
       <podcast:episode>9</podcast:episode>
       <itunes:explicit>false</itunes:explicit>
-      <pubDate>Fri, 27 Feb 2026 12:00:00 GMT</pubDate>
+      <pubDate>Fri, 04 May 2026 12:00:00 GMT</pubDate>
       <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_080512_6223d9ef17f6e7c10eb2c2f2a9e5b3ea.png"/>
     </item>
     <item>
@@ -58,7 +57,7 @@
       <itunes:episode>8</itunes:episode>
       <podcast:episode>8</podcast:episode>
       <itunes:explicit>false</itunes:explicit>
-      <pubDate>Tue, 24 Feb 2026 12:00:00 GMT</pubDate>
+      <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
       <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_060511_0ce0ea9216e299e24311738b83c70700.png"/>
     </item>
     <item>
@@ -92,7 +91,7 @@
       <itunes:episode>6</itunes:episode>
       <podcast:episode>6</podcast:episode>
       <itunes:explicit>false</itunes:explicit>
-      <pubDate>Sat, 08 Nov 2025 12:00:00 GMT</pubDate>
+      <pubDate>Sat, 22 Apr 2026 12:00:00 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Nick Emmons | Co-Founder & CEO of Allora Labs — The Synergies Between Web3 and AI]]></title>
@@ -108,7 +107,7 @@
       <itunes:episode>5</itunes:episode>
       <podcast:episode>5</podcast:episode>
       <itunes:explicit>false</itunes:explicit>
-      <pubDate>Fri, 24 Oct 2025 12:00:00 GMT</pubDate>
+      <pubDate>Fri, 08 Apr 2026 12:00:00 GMT</pubDate>
       <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_050555_440a7df9b4584abc6381f7dab00f9327.png"/>
     </item>
     <item>
@@ -125,7 +124,7 @@
       <itunes:episode>4</itunes:episode>
       <podcast:episode>4</podcast:episode>
       <itunes:explicit>false</itunes:explicit>
-      <pubDate>Mon, 06 Oct 2025 12:00:00 GMT</pubDate>
+      <pubDate>Mon, 02 Apr 2026 12:00:00 GMT</pubDate>
       <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_050526_6218342d3ecbcaa157b55a6f97e6f0e2.png"/>
     </item>
     <item>
@@ -142,7 +141,7 @@
       <itunes:episode>3</itunes:episode>
       <podcast:episode>3</podcast:episode>
       <itunes:explicit>false</itunes:explicit>
-      <pubDate>Tue, 23 Sep 2025 12:00:00 GMT</pubDate>
+      <pubDate>Tue, 21 Mar 2026 12:00:00 GMT</pubDate>
       <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_050529_c4f6cab23d585e10828b99ed47cee5c0.png"/>
     </item>
     <item>
@@ -159,7 +158,7 @@
       <itunes:episode>2</itunes:episode>
       <podcast:episode>2</podcast:episode>
       <itunes:explicit>false</itunes:explicit>
-      <pubDate>Thu, 04 Sep 2025 12:00:00 GMT</pubDate>
+      <pubDate>Thu, 9 Mar 2026 12:00:00 GMT</pubDate>
       <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_050500_50c211a29045b04de5bf5c96f7bff283.png"/>
     </item>
     <item>
@@ -176,7 +175,7 @@
       <itunes:episode>1</itunes:episode>
       <podcast:episode>1</podcast:episode>
       <itunes:explicit>false</itunes:explicit>
-      <pubDate>Fri, 22 Aug 2025 12:00:00 GMT</pubDate>
+      <pubDate>Fri, 27 Feb 2026 12:00:00 GMT</pubDate>
       <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_050552_19e0485b400a1cc704b9fa25d2fcba6e.png"/>
     </item>
     <item>
