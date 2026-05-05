@@ -19,7 +19,8 @@
     <podcast:locked>no</podcast:locked>
     <itunes:author>Kenzi Morikawa, Sachi Miyasaki, Diksha Wells</itunes:author>
     <itunes:owner>
-      <itunes:name>Kenzi Morikawa, Sachi Miyasaki, Diksha Wells</itunes:name>
+    <itunes:name>Kenzi Morikawa, Sachi Miyasaki, Diksha Wells</itunes:name>
+    <itunes:email>info@beaconlayer.co</itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
