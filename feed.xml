@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://media.rss.com/style.xsl"?>
+<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+  <channel>
+    <title><![CDATA[BeaconLayer Podcast]]></title>
+    <link>https://rss.com/podcasts/beaconlayer-podcast</link>
+    <atom:link href="https://media.rss.com/beaconlayer-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <description><![CDATA[<p><strong>BeaconLayer Podcast takes listeners inside the real stories behind the companies shaping web3.</strong></p><p>Hosted by the BeaconLayer team, each episode features long-form conversations with founders, builders, and operators who are turning ideas into products, teams, and ecosystems.</p><p>We go beyond headlines, announcements, and polished launch threads to understand what building actually looks like: the early conviction, the products shipped, the things that broke, the hiring decisions, the hard pivots, the near-death moments, and the choices that ultimately made it work.</p><p>This is web3 from the builder’s side — the wins, the chaos, the mistakes, and the lessons you won’t find on the timeline.</p>]]></description>
+    <generator>RSS.com 2026.428.112250</generator>
+    <lastBuildDate>Tue, 05 May 2026 20:40:16 GMT</lastBuildDate>
+    <language>en</language>
+    <itunes:image href="https://media.rss.com/beaconlayer-podcast/podcast_cover_20260505_120508_2dd6daa282cc5301891604f4955f880a.png"/>
+    <podcast:guid>741eaa51-806e-5b33-bedf-358169239461</podcast:guid>
+    <image>
+      <url>https://media.rss.com/beaconlayer-podcast/podcast_cover_20260505_120508_2dd6daa282cc5301891604f4955f880a.png</url>
+      <title>BeaconLayer Podcast</title>
+      <link>https://rss.com/podcasts/beaconlayer-podcast</link>
+    </image>
+    <podcast:locked>no</podcast:locked>
+    <itunes:author>Kenzi Morikawa, Sachi Miyasaki, Diksha Wells</itunes:author>
+    <itunes:owner>
+      <itunes:name>Kenzi Morikawa, Sachi Miyasaki, Diksha Wells</itunes:name>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Technology"/>
+    <podcast:medium>podcast</podcast:medium>
+    <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title><![CDATA[Michael Heinrich | Founder of 0G Labs — Building the First Modular AI Chain]]></title>
+      <itunes:title><![CDATA[Michael Heinrich | Founder of 0G Labs — Building the First Modular AI Chain]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, Kenzi Morikawa, Sachi Miyasaki, and Diksha Wells sit down with Michael Heinrich, Founder of 0G Labs, to explore a bold thesis: the future of AI infrastructure may need its own modular, crypto-native stack.</p><p>Michael shares his unconventional journey — from high school boredom to building 0G Labs — and how practices like spiritual reading and meditation reshaped his leadership style as a founder. We talk about the less-discussed side of company-building: clarity, emotional regulation, and staying consistent when the market (and your own head) is volatile.</p><p>On the product side, we dive into what “the first modular AI chain” means in practice, why decentralized AI infrastructure is emerging as a category, and why Michael believes a community-owned approach is essential for the future of AI and data. 0G Labs is building a modular Web3 platform aimed at unlocking data infrastructure and storage for advanced AI workloads — connecting decentralized networks with tooling designed for machine-learning-native applications.</p><p>Expect a wide-ranging conversation on decentralized AI, community ownership, founder psychology, and what it takes to build at the frontier where crypto meets compute.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796290</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796290/beaconlayer-podcast/2026_05_05_18_07_33_aadfedd2-28e1-4562-a116-9cbd0a1164c1.mp3" length="55284492" type="audio/mpeg"/>
+      <guid isPermaLink="false">24e37a10-0311-40a6-b25c-decfde31f10c</guid>
+      <itunes:duration>2993</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>9</itunes:episode>
+      <podcast:episode>9</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 27 Feb 2026 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_080512_6223d9ef17f6e7c10eb2c2f2a9e5b3ea.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Ron Bodkin | CEO & Co-Founder of Theoriq — Understanding Agent Collectives in AI]]></title>
+      <itunes:title><![CDATA[Ron Bodkin | CEO & Co-Founder of Theoriq — Understanding Agent Collectives in AI]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, Kenzi Morikawa sits down with Ron Bodkin, CEO and Co-Founder of Theoriq, to unpack what “agent collectives” really are — and why the next wave of AI may be coordinated by crypto-native incentives.</p><p>Ron explores the intersection of AI and Web3 through the lenses of responsibility, governance, and long-term alignment. He shares his journey from Google to founding Theoriq and ChainML, and reflects on what changes when you move from corporate AI leadership to startup execution.</p><p>The conversation dives into agent collectives, why standardization in AI is still a mess, and what metrics might actually matter for decentralized AI success. Ron introduces “Proof of Contribution” and “Proof of Collaboration” as trust-building mechanisms for agents and teams — and explains Theoriq’s core pillars: interoperability, composability, and decentralized innovation.</p><p>We also get into token economics, governance design, and how company culture shapes what a protocol becomes over time. Ron closes with lessons on leadership — and a forward-looking view of where decentralized AI could go next.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796276</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796276/beaconlayer-podcast/2026_05_05_18_01_54_81e059d1-38c0-4bc9-b5c3-162076dceb1a.mp3" length="55601620" type="audio/mpeg"/>
+      <guid isPermaLink="false">17aed745-ab59-450a-b497-6b422725b3a4</guid>
+      <itunes:duration>2912</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>8</itunes:episode>
+      <podcast:episode>8</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 24 Feb 2026 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_060511_0ce0ea9216e299e24311738b83c70700.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Anna Kazlauskas | CEO & Co-Founder of Vana — Solving AI’s Data Dilemma]]></title>
+      <itunes:title><![CDATA[Anna Kazlauskas | CEO & Co-Founder of Vana — Solving AI’s Data Dilemma]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, Kenzi Morikawa, Sachi Miyasaki, and Diksha Wells sit down with Anna Kazlauskas, CEO and Co-Founder of Vana, to unpack one of the biggest bottlenecks in AI: <strong>data ownership and incentives</strong>.</p><p>Anna shares her path from traditional finance into decentralized AI, and what it’s like building Vana — a platform designed to let people own their data and contribute it to AI models on their terms. We dig into why tokenomics matters in this model (and where it can go wrong), plus the hard parts of starting a Web3 company: hiring mission-aligned teams, staying focused through noise, and designing systems that can survive contact with real users.</p><p>The conversation goes deep on the AI data shortage and how Vana approaches it through decentralized data ownership and <strong>data DAOs</strong>. Anna breaks down the difference between data DAOs, trusts, and unions, why private data is uniquely valuable, and what the ecosystem has learned from experiments like the Reddit Data DAO concept.</p><p>If you’re interested in the future of AI, data rights, and crypto-native coordination, this one is packed.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796267</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796267/beaconlayer-podcast/2026_05_05_17_58_55_786474c4-f6b0-4f98-9b78-b7dc7fa2e239.mp3" length="63041774" type="audio/mpeg"/>
+      <guid isPermaLink="false">d1ee3e52-2743-477e-a03a-51b73dfa9399</guid>
+      <itunes:duration>3373</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>7</itunes:episode>
+      <podcast:episode>7</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 22 Feb 2026 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_050515_e3adf3f52dbaccda8d54d6328ac9b87d.png"/>
+    </item>
+    <item>
+      <title><![CDATA[David Minarsch | Co-Founder & CEO of Valory — The Rise of Autonomous Agents and the Future of Web3]]></title>
+      <itunes:title><![CDATA[David Minarsch | Co-Founder & CEO of Valory — The Rise of Autonomous Agents and the Future of Web3]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, Kenzi Morikawa sits down with David Minarsch, Co-Founder and CEO of Valory, to explore what “autonomy” really means — and why autonomous agents might become the next major interface layer between humans, software, and markets.</p><p>David shares his path into crypto and AI, including his work with <a target="_blank" rel="noopener noreferrer nofollow" href="http://Fetch.ai">Fetch.ai</a>, and the founding story behind Valory and OLAS. We dig into the rise of autonomous agents: what they can do today (beyond demos), where they’re already useful, and what breaks when you try to deploy them in the real world — especially inside permissionless, adversarial environments like Web3.</p><p>The conversation also covers the challenges in the Web3 × AI landscape: coordination problems, incentive design, security, and reliability. David makes a strong case for mission-driven teams that can keep building through cycles, and for an open-source ethos — with OLAS positioned as infrastructure to coordinate decentralized autonomous agents in a way that’s composable, verifiable, and scalable.</p><p>Expect a thoughtful deep dive on autonomy, agent coordination, and the future shape of Web3 as agents become first-class participants.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796266</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796266/beaconlayer-podcast/2026_05_05_17_58_53_e9d8970e-96a7-4eb8-9d52-f11beee05cf2.mp3" length="60505943" type="audio/mpeg"/>
+      <guid isPermaLink="false">7db23986-d924-4290-ae08-791e20a26242</guid>
+      <itunes:duration>3240</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>6</itunes:episode>
+      <podcast:episode>6</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 08 Nov 2025 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Nick Emmons | Co-Founder & CEO of Allora Labs — The Synergies Between Web3 and AI]]></title>
+      <itunes:title><![CDATA[Nick Emmons | Co-Founder & CEO of Allora Labs — The Synergies Between Web3 and AI]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, Kenzi Morikawa, Sachi Miyasaki, and Diksha Wells sit down with Nick Emmons, Co-Founder and CEO of Allora Labs, to explore what crypto actually adds to AI — and where the hype ends.</p><p>Nick breaks down the synergies between Web3 and AI through a practical lens: how decentralized systems could coordinate models, incentives, and data into something closer to a “collective intelligence” network. He shares Allora’s mission and why they’re focused on AI-powered DeFi — building new financial primitives that use predictive models and markets to make on-chain systems smarter and more adaptive.</p><p>We also get into the open vs. closed AI debate, why that tension matters for builders, and what kinds of opportunities exist right now for blockchain developers stepping into the AI space. Nick highlights the milestones at Allora Labs that excite him most — and returns to a core idea: markets aren’t just for price discovery; they’re one of the best tools we have for coordinating solutions to hard problems.</p><p>Expect a wide-ranging conversation on decentralized AI, crypto-native incentives, and Nick’s founder journey at the Web3 × AI frontier.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796257</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796257/beaconlayer-podcast/2026_05_05_17_54_23_c5d8b940-f176-4c0e-a44d-e9db5f725d0a.mp3" length="43780727" type="audio/mpeg"/>
+      <guid isPermaLink="false">21d1b4a9-399a-4ea8-b4a3-6668509f53e2</guid>
+      <itunes:duration>2297</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode>5</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 24 Oct 2025 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_050555_440a7df9b4584abc6381f7dab00f9327.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Gabby Dizon | Co-Founder of Yield Guild Games — Tokenomics and In-Game Economies]]></title>
+      <itunes:title><![CDATA[Gabby Dizon | Co-Founder of Yield Guild Games — Tokenomics and In-Game Economies]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, Kenzi Morikawa, Sachi Miyasaki, and Diksha Wells sit down with Gabby Dizon, Co-Founder of Yield Guild Games (YGG), to unpack what makes Web3 gaming economies work — and why most of them don’t.</p><p>Gabby shares his journey from PC gamer to Web3 pioneer, and what he’s learned after years of watching in-game economies succeed, fail, and evolve. We talk about tokenomics that actually sustain player behavior (not just incentives that pump and dump), how guilds change the onboarding equation, and why mainstream adoption won’t happen until the product experience competes with the best of Web2 — not just on ownership, but on fun.</p><p>We also dive into the future of Web3 gaming: where AI might reshape both game design and player markets, what qualities founders need to survive long cycles, and how YGG has evolved from a play-to-earn guild into experiments like on-chain guilds and more decentralized coordination models.</p><p>Gabby is a game industry veteran with 18+ years of experience. Beyond YGG, he’s a founding board member of the Blockchain Game Alliance, and his mission is simple but massive: onboarding millions of gamers into new digital opportunity — with a belief that the future of work will be built inside an open metaverse.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796251</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796251/beaconlayer-podcast/2026_05_05_17_52_00_396941f7-a624-46de-bf64-36f1a7e8127a.mp3" length="54135037" type="audio/mpeg"/>
+      <guid isPermaLink="false">f17b35b3-0451-42a2-bdde-74a3333ff734</guid>
+      <itunes:duration>2751</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode>4</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 06 Oct 2025 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_050526_6218342d3ecbcaa157b55a6f97e6f0e2.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Greg Osuri | Founder of Akash Network — Liberty, Community, and the Future of Decentralized AI]]></title>
+      <itunes:title><![CDATA[Greg Osuri | Founder of Akash Network — Liberty, Community, and the Future of Decentralized AI]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, Kenzi Morikawa, Sachi Miyasaki, and Diksha Wells sit down with Greg Osuri, Founder and CEO of Akash Network, to explore the ideas powering the decentralized web — liberty, sovereignty, and what “freedom” should mean in an AI-driven internet.</p><p>Greg shares his founder journey and the real challenges of building a Web3 product: staying grounded through volatility, making hard tradeoffs, and keeping a healthy work-life balance while running at startup speed. We also talk about why community isn’t just a nice-to-have in Web3 — it’s the distribution engine, the governance layer, and the resilience mechanism when everything else shifts.</p><p>On the tech side, we dig into open-source as a strategy, why decentralized cloud infrastructure matters for the future of AI, and how Greg thinks about governments and regulation in a world where AI compute is becoming the new choke point. If AI is going to be decentralized, he argues, the infrastructure and incentives have to be decentralized too.</p><p>Before Akash, Greg founded AngelHack — one of the largest hackathon communities in the world, spanning 100,000+ developers across 50 cities. He started his career at IBM and later designed Kaiser Permanente’s first cloud architecture — experience that shaped how he thinks about reliable infrastructure, not just narratives.</p><p>Expect a deep conversation on decentralized AI, open-source, the Web2-to-Web3 mindset shift, and what it takes to build a movement — not just a product.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796253</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796253/beaconlayer-podcast/2026_05_05_17_53_29_23f87593-3cb4-4762-9bc3-5536c95357f4.mp3" length="83282835" type="audio/mpeg"/>
+      <guid isPermaLink="false">ca0fcae7-8f74-4232-8b5f-53e7b1f02883</guid>
+      <itunes:duration>4728</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode>3</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 23 Sep 2025 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_050529_c4f6cab23d585e10828b99ed47cee5c0.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Ethan Sun | Co-Founder of MyShell — Empowering Creators at the Blockchain × AI Crossroads]]></title>
+      <itunes:title><![CDATA[Ethan Sun | Co-Founder of MyShell — Empowering Creators at the Blockchain × AI Crossroads]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, Kenzi Morikawa, Sachi Miyasaki, and Diksha Wells sit down with Ethan Sun to explore what happens when consumer AI meets crypto rails — and why creators may be the biggest winners.</p><p>Ethan shares his journey into the blockchain-and-AI intersection and the origin story of MyShell, an “AI consumer layer” designed to connect users, creators, and open-source AI researchers. His core thesis: the next wave of the creator economy won’t require everyone to be technical — it’ll give non-technical creators real leverage to build, remix, and distribute AI-native experiences.</p><p>We unpack MyShell’s approach to making AI models more accessible, what it means to transition from Web2 to Web3 without losing users, and where blockchain fits into the product (beyond buzzwords). Ethan also offers a Chinese perspective on the crypto/AI landscape — how sentiment, policy realities, and market structure shape what gets built and what actually reaches users.</p><p>Expect a wide-ranging conversation on creator tools, product distribution, Web3 incentives, and the practical path to AI adoption at scale.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796244</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796244/beaconlayer-podcast/2026_05_05_17_49_38_71172b44-0252-4c08-a232-bd31a3c4b77a.mp3" length="60367116" type="audio/mpeg"/>
+      <guid isPermaLink="false">7584f02a-3eaf-4d29-9899-addab608edcf</guid>
+      <itunes:duration>3335</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 04 Sep 2025 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_050500_50c211a29045b04de5bf5c96f7bff283.png"/>
+    </item>
+    <item>
+      <title><![CDATA[DC Builder | Research Engineer at Worldcoin Foundation — Proving Personhood in a Digital Era]]></title>
+      <itunes:title><![CDATA[DC Builder | Research Engineer at Worldcoin Foundation — Proving Personhood in a Digital Era]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, Kenzi Morikawa, Sachi Miyasaki, and Diksha Wells speak with DC Builder, Research Engineer at Worldcoin Foundation, about one of the hardest problems on the internet: proving you’re a real human — without giving up privacy.</p><p>DC Builder breaks down the project’s approach to decentralization and its mission to expand access to digital identity and finance globally — with the broader goal of making distribution in the digital economy more fair. We unpack the “web of trust” challenge, why biometrics are both powerful and controversial, and what it actually takes to verify personhood at scale.</p><p>We also dig into how privacy-preserving cryptography fits into the picture, including the use of Semaphore for anonymous signaling and membership proofs. And because the lines between crypto and AI are blurring fast, we explore the emerging ZKML space and other crypto–AI projects that are pushing the frontier of what on-chain systems can verify.</p><p>Expect a deep conversation on identity, decentralization, privacy tradeoffs, and DC Builder’s path through Web3.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796237</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796237/beaconlayer-podcast/2026_05_05_17_47_51_d88c7e77-4fc5-4e57-96b0-33895ca1b4d1.mp3" length="61963298" type="audio/mpeg"/>
+      <guid isPermaLink="false">3b6509cd-3c60-49d5-b44b-31c66bc29f6b</guid>
+      <itunes:duration>3476</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 22 Aug 2025 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_050552_19e0485b400a1cc704b9fa25d2fcba6e.png"/>
+    </item>
+    <item>
+      <title><![CDATA[David Tse | Co-Founder of BabylonChain — Scaling Bitcoin to Secure a Decentralized World]]></title>
+      <itunes:title><![CDATA[David Tse | Co-Founder of BabylonChain — Scaling Bitcoin to Secure a Decentralized World]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, Kenzi Morikawa, Sachi Miyasaki, and Diksha Wells sit down with David Tse, Co-Founder of BabylonChain, to explore a bold idea: using Bitcoin to help secure a broader decentralized world — without wrapping, bridging, or handing your coins to a third party.</p><p>David breaks down BabylonChain’s approach to Bitcoin staking and why it matters: enabling bitcoin holders to earn yield on otherwise idle BTC while maintaining self-custody. Instead of bridging BTC to another chain, users lock their bitcoin in a self-custodial way to obtain the rights to help validate Proof-of-Stake chains and earn rewards in return — with the goal of minimizing trust assumptions at every step.</p><p>We also talk about BabylonChain’s origin story, what it takes to build through both technical complexity and market cycles, and David’s journey from academia into Web3 entrepreneurship.</p><p>Beyond crypto, David is a celebrated professor at Stanford University whose work spans wireless communications, information theory, and broader technology research. He also serves as an advisor to Bain Capital Crypto, where he provides strategic guidance on the evolving blockchain landscape.</p><p>Expect a deep conversation on Bitcoin security, staking, and the mindset shift required to build infrastructure meant to last decades.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796224</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796224/beaconlayer-podcast/2026_05_05_17_44_16_5b4704d7-08f8-49ed-9baa-a2f27bec9f1d.mp3" length="51380704" type="audio/mpeg"/>
+      <guid isPermaLink="false">b24043e0-8e45-458f-9a2b-e64dd2d958e0</guid>
+      <itunes:duration>2748</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>14</itunes:episode>
+      <podcast:episode>14</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_050531_6ab2a1bd859ea33df6c06cfb7f06ca89.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Sergey Gorbunov | Co-Founder of Axelar Network — Scaling Blockchain Interoperability]]></title>
+      <itunes:title><![CDATA[Sergey Gorbunov | Co-Founder of Axelar Network — Scaling Blockchain Interoperability]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, Kenzi Morikawa, Sachi Miyasaki, and Diksha Wells sit down with Sergey Gorbunov, Co-Founder of Axelar Network, to explore the next chapter of Web3: interoperability that actually scales.</p><p>Sergey shares Axelar’s founding story and why he believes “the internet of blockchains” only works if cross-chain communication becomes as reliable and programmable as anything developers expect in Web2. We dig into what interoperability should look like when the goal is billions of users — not just power users — and how Axelar positions itself as a programmable platform for routing value and messages across ecosystems.</p><p>Beyond the product, Sergey opens up about what keeps him building: how he thinks about innovation cycles in crypto, the tradeoffs between decentralization and usability, and what founders need to get right when they’re building infrastructure instead of apps.</p><p>Sergey also brings deep academic and cryptography roots to the conversation. He’s an Assistant Professor at University of Waterloo, was previously on the founding team at Algorand, and earned his Ph.D. at MIT as a Microsoft Ph.D. Fellow, focusing on cryptographic tools for cloud systems and lattice-based cryptography.</p><p>Expect a thoughtful deep dive into Axelar, interoperability, and Sergey’s Web3 founder journey.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796221</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796221/beaconlayer-podcast/2026_05_05_17_42_55_efa1c507-cc70-4b79-aaf0-f1d06f8941cf.mp3" length="47572690" type="audio/mpeg"/>
+      <guid isPermaLink="false">67fd4d3c-cf83-42fc-ad8e-a75a3614fba4</guid>
+      <itunes:duration>2548</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>13</itunes:episode>
+      <podcast:episode>13</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 23 Jul 2025 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_050523_4649b6cae3f2cea8837c1db2f532b6b9.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Victor Ji | Co-Founder of Manta Network — Building Real-World Use Cases With Zero-Knowledge]]></title>
+      <itunes:title><![CDATA[Victor Ji | Co-Founder of Manta Network — Building Real-World Use Cases With Zero-Knowledge]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, Kenzi Morikawa, Sachi Miyasaki, and Diksha Wells sit down with Victor Ji, Co-Founder of Manta Network, to break down what zero-knowledge proofs actually enable — and how Manta is trying to make ZK development feel as seamless as building any other modern app.</p><p>Victor explains ZK in plain terms, why developer experience is the make-or-break factor for ZK adoption, and how Manta’s mission centers on shipping a secure, interoperable future powered by privacy-preserving computation. He also walks through key milestones and turning points in Manta’s journey, plus the founder qualities he believes matter most when building through uncertainty.</p><p>Before co-founding Manta in 2020, Victor worked as a research assistant at Belfer Center for Science and International Affairs at Harvard University, where he focused on international security, diplomacy, and technology policy — a background that shapes how he thinks about privacy, trust, and the long-term stakes of infrastructure.</p><p>Expect an in-depth conversation on Manta’s origin story, real-world ZK applications, and the practical decisions that turn cutting-edge crypto research into something builders can actually use.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796215</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796215/beaconlayer-podcast/2026_05_05_17_40_45_3dee5cdd-5f18-4ee3-8567-b89ca5180504.mp3" length="22493462" type="audio/mpeg"/>
+      <guid isPermaLink="false">3d51fb38-4da5-4309-9b95-926c56f29eb0</guid>
+      <itunes:duration>1256</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>12</itunes:episode>
+      <podcast:episode>12</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 12 Jun 2025 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_050527_29fe1f0d6875b8e7be7f47f7dc109d6a.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Sandy Peng | Co-Founder of Scroll — Building L2 Solutions Aligned With Ethereum’s Roadmap]]></title>
+      <itunes:title><![CDATA[Sandy Peng | Co-Founder of Scroll — Building L2 Solutions Aligned With Ethereum’s Roadmap]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLAyer Podcast</strong>, Kenzi Morikawa, Sachi Miyasaki, and Diksha Wells sit down with Sandy Peng, Co-Founder of Scroll, to unpack what it takes to build Layer 2 scaling in a way that’s truly intertwined with Ethereum’s long-term roadmap.</p><p>Sandy shares the founding story of Scroll, how she thinks about the L2 landscape, and why “just build” is still the most underrated strategy in Web3 — especially when narratives and incentives shift every quarter. We also get into what “community-first” actually means for an open-source zkEVM project, and how Scroll operates at the frontier of zero-knowledge research while keeping developer usability front and center.</p><p>With a background spanning research, business development, and project strategy — plus experience as both a startup founder and blockchain investor — Sandy brings a rare perspective on how open-source infrastructure gets adopted: the real-world constraints (including compliance), the importance of trust and credibility, and the practical decisions that separate promising tech from products people actually use.</p><p>Expect an in-depth conversation on Sandy’s founder journey, the early days of Scroll, and the choices that matter when you’re building the rails for Ethereum’s next chapter.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796213</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796213/beaconlayer-podcast/2026_05_05_17_40_17_6cc51e90-f8ba-4211-a715-3907812834c0.mp3" length="50879514" type="audio/mpeg"/>
+      <guid isPermaLink="false">1bbb9058-30d6-4fbc-be25-34038b93da9e</guid>
+      <itunes:duration>2825</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>11</itunes:episode>
+      <podcast:episode>11</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 22 May 2025 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_050538_1ecf51c2fe8a6bbb8b0e1e5856be43ad.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Chris Spadafora | Founder of BadgerDAO — Bringing Bitcoin to DeFi]]></title>
+      <itunes:title><![CDATA[Chris Spadafora | Founder of BadgerDAO — Bringing Bitcoin to DeFi]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, Kenzi Morikawa, Sachi Miyasaki, and Diksha Wells sit down with Chris Spadafora, Founder of BadgerDAO, to talk about one of crypto’s longest-running goals: making Bitcoin a first-class citizen in DeFi.</p><p>Chris breaks down his mission to bring Bitcoin liquidity into decentralized finance — not as a narrative, but as usable collateral across a growing set of DeFi applications. We get into decentralized governance, crypto tribalism, and the tradeoffs that show up when you try to coordinate a community at scale while still shipping products.</p><p>BadgerDAO is an open-source DAO with a native token, BADGER, used for voting on community proposals. Chris explains how governance actually functions in practice, what makes proposals succeed or fail, and why incentives matter more than ideology when you want decentralization to work.</p><p>Expect a candid conversation on the formation of BadgerDAO, hard-earned lessons from the founder journey, and what it’ll take for Bitcoin to keep expanding its role inside DeFi.</p><p>This episode was supported by Diksha Desai and Sachi Shiokava.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796214</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796214/beaconlayer-podcast/2026_05_05_17_40_34_465db3b3-4955-4c5a-8fc2-f1363a33454e.mp3" length="63442632" type="audio/mpeg"/>
+      <guid isPermaLink="false">ac7017b7-9695-4ef2-9923-2451ac792e9b</guid>
+      <itunes:duration>3510</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>10</itunes:episode>
+      <podcast:episode>10</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 10 May 2025 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_050539_ff59a7a2850745761f228124f7c47b0c.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Eli Ben-Sasson | Founder of StarkWare — Scaling Blockchain With Zero-Knowledge]]></title>
+      <itunes:title><![CDATA[Eli Ben-Sasson | Founder of StarkWare — Scaling Blockchain With Zero-Knowledge]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, Kenzi Morikawa, Sachi Miyasaki, and Diksha Wells sit down with Eli Ben-Sasson, Co-Founder and President of StarkWare, to unpack the story behind one of the most important breakthroughs in blockchain scaling: <strong>zero-knowledge proofs</strong>.</p><p>Eli shares how a career in core theory and academia ultimately led him into Web3 — from earning his Ph.D. under Avi Wigderson to postdoctoral work at MIT and Harvard University. With deep roots in probabilistically checkable proofs (PCPs), Eli explains the moment it clicked: at a 2013 Bitcoin conference, he realized these ideas could compress verification and directly attack blockchain’s scalability limits.</p><p>We dive into how StarkWare’s tech compresses computation into proofs, what it takes to onboard the next billion users without compromising security, and why decentralization remains the hardest long-term problem. Eli also shares a sober warning: as systems become valuable, incentives naturally push toward concentration — and the real mission of Web3 is to resist that by broadening participation and influence.</p><p>Expect a deep conversation on the StarkWare journey, scaling with zero knowledge, and the tradeoffs that will define the next era of crypto infrastructure.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796122</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796122/beaconlayer-podcast/2026_05_05_17_16_02_163549b8-f3b3-45b1-8b22-cdf7d3078e28.mp3" length="55232840" type="audio/mpeg"/>
+      <guid isPermaLink="false">62fc6af8-1a99-497d-aa48-a348fdf9f2d0</guid>
+      <itunes:duration>2854</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>9</itunes:episode>
+      <podcast:episode>9</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 21 Apr 2025 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_050524_24b868be2893665300b6fac66330be11.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Sreeram Kannan | Founder of EigenLayer — Blockchain Brings Trust to Tech Innovation]]></title>
+      <itunes:title><![CDATA[Sreeram Kannan | Founder of EigenLayer — Blockchain Brings Trust to Tech Innovation]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLalyer Podcast</strong>, Kenzi Morikawa speaks with Sreeram Kannan, Founder and CEO of EigenLayer, about the leap from academia to building one of the most talked-about infrastructure layers in crypto — and what problem EigenLayer is actually trying to solve.</p><p>Sreeram shares how he first got pulled into Web3, why he chose to leave an academic path to ship a real product, and the bigger thesis behind his work: that blockchain can unlock a new kind of innovation economy — where builders can earn trust through transparent, verifiable systems instead of needing legacy credentials, reputation, or insider access.</p><p>We unpack how that belief shaped EigenLayer’s mission, what challenges in the crypto ecosystem pushed him to build, and what “trust” really means when the goal is to accelerate technology without central gatekeepers.</p><p>This episode was supported by Diksha Wells and Sachi Miyasaki.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796119</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796119/beaconlayer-podcast/2026_05_05_17_15_15_f4b0142d-0654-4bd7-ba4c-c15bdf4bc14c.mp3" length="67783242" type="audio/mpeg"/>
+      <guid isPermaLink="false">f609dce4-b769-451a-9176-cc29868e0e11</guid>
+      <itunes:duration>3649</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>8</itunes:episode>
+      <podcast:episode>8</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 20 Mar 2025 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_050526_b618be2a0b33dddf64bdf77e3e9154ef.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Aniket Jindal | Co-Founder of Biconomy — Building the Tools That Make Web3 Usable]]></title>
+      <itunes:title><![CDATA[Aniket Jindal | Co-Founder of Biconomy — Building the Tools That Make Web3 Usable]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, Kenzi Morikawa talks with Aniket Jindal, Co-Founder of Biconomy, about what it really takes to build infrastructure that normal users can actually enjoy — not just tolerate.</p><p>Aniket breaks down the traits he sees in the strongest Web3 founders, how teams can keep momentum during bear markets, and why community management is a core operating system (not a “marketing task”). We get into Biconomy’s multi-chain relay and transaction network, how decentralized relayers change the UX equation, and what tokenomics should look like when the product is a network, not an app.</p><p>We also talk about adoption from the ground up: why UX is still the biggest bottleneck in crypto, what Biconomy learned through key ecosystem moments (including early Polygon-era growth), and why staying close to real users — especially when hype fades — is the most underrated advantage in the startup game.</p><p>This episode was supported by Diksha Wells and Sachi Miyasaki.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796110</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796110/beaconlayer-podcast/2026_05_05_17_12_12_5021a4fd-5e80-4a76-b380-6821d1816e79.mp3" length="54628980" type="audio/mpeg"/>
+      <guid isPermaLink="false">51a16dc9-7953-4649-a28b-6215d7aca294</guid>
+      <itunes:duration>3414</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>7</itunes:episode>
+      <podcast:episode>7</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 08 Mar 2025 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_050539_7219618dec1e17a687cbc975b8ac1956.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Beryl Li | Co-Founder of Yield Guild Games — From Games to Guilds: Navigating the Web3 Journey]]></title>
+      <itunes:title><![CDATA[Beryl Li | Co-Founder of Yield Guild Games — From Games to Guilds: Navigating the Web3 Journey]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, Kenzi Morikawa sits down with Beryl Li, Co-Founder of Yield Guild Games (YGG) — widely known as one of the largest decentralized networks of gaming guilds.</p><p>Beryl shares her path into Web3 and what guilds actually <em>do</em> in a tokenized gaming economy: onboarding players, coordinating communities at scale, and bridging the gap between games, education, and ownership. We dig into why Web3 education matters for adoption, how native tokens shape incentives across decentralized gaming ecosystems, and what it really takes to build and manage community in a network as distributed (and fast-moving) as YGG.</p><p>As a group focused on blockchain games and Web3 learning, YGG has helped redefine how gamers and crypto-native communities organize — creating a home for a rapidly growing mix of players, builders, and enthusiasts.</p><p>We also touch on Beryl’s recognition and leadership — and what it means to build with long-term conviction in an industry that constantly reinvents itself.</p><p>This episode was supported by Diksha Wells and Sachi Miyasaki.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796106</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796106/beaconlayer-podcast/2026_05_05_17_11_57_c595f022-e2ef-4c61-84ca-61dc37d60a35.mp3" length="53260850" type="audio/mpeg"/>
+      <guid isPermaLink="false">488ecf27-3a63-43f0-8f5d-bb30bfe764d3</guid>
+      <itunes:duration>3150</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>6</itunes:episode>
+      <podcast:episode>6</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 25 Feb 2025 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_050519_2271b7e7bbd483cd884e4dd3f6146cc2.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Illia Polosukhin | Co-Founder of NEAR Protocol — Scaling an L1 in a Bear Market]]></title>
+      <itunes:title><![CDATA[Illia Polosukhin | Co-Founder of NEAR Protocol — Scaling an L1 in a Bear Market]]></itunes:title>
+      <description><![CDATA[<p>In this week’s episode of <strong>BeaconLayer Podcast</strong>, Kenzi Morikawa and Diksha Wells sit down with Illia Polosukhin, Co-Founder of NEAR Protocol.</p><p>Illia breaks down how NEAR was created, what “real scalability” in Web3 actually requires (beyond marketing claims), and the hard truths of building infrastructure when the market turns. We talk about staying focused during a bear cycle, the tradeoffs behind L1 design decisions, and what NEAR is optimizing for as adoption grows.</p><p>This episode was supported by Sachi Miyasaki</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796105</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796105/beaconlayer-podcast/2026_05_05_17_11_57_7c6a446a-d331-4677-bf08-eff570ec4441.mp3" length="53551073" type="audio/mpeg"/>
+      <guid isPermaLink="false">c06b62bd-8823-4f75-9721-298492a0017d</guid>
+      <itunes:duration>3198</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode>5</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 06 Feb 2025 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_050552_249a53272a6740ac32f2ec4a7ff0e6ba.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Ryan Sungho Kim | Partner at Hashed — Cracking the Code on Web3 Investing in Asia]]></title>
+      <itunes:title><![CDATA[Ryan Sungho Kim | Partner at Hashed — Cracking the Code on Web3 Investing in Asia]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, Kenzi Morikawa sits down with Ryan Sungho Kim, Partner at Hashed, to unpack how top-tier Web3 deals are evaluated across Asia — and what founders often miss when pitching investors.</p><p>Ryan shares his path from building and exiting LOOKET to Recobell, to leading product development around recommendation systems — an experience that exposed him to the fragility (and incentives) of the data economy. That wake-up call pulled him into blockchain, and ultimately into helping build Hashed into one of the region’s most influential players.</p><p>We also get into Hashed’s founding thesis (2017): why the team believed blockchain could reshape not only finance, but the internet’s underlying structure — a shift toward networks that empower individuals rather than intermediaries. Ryan breaks down what “conviction” looks like in practice, where real adoption is emerging, and how he thinks the Asian market is evolving right now.</p><p>This episode was supported by Diksha Wells and Sachi Miyasaki.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796100</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796100/beaconlayer-podcast/2026_05_05_17_09_10_caea5cea-c22b-4560-871b-f2528a3cc8ea.mp3" length="48235879" type="audio/mpeg"/>
+      <guid isPermaLink="false">ba29a62b-5bae-492b-b0b3-a8144f9ccc78</guid>
+      <itunes:duration>2903</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode>4</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 24 Jan 2025 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_050544_747ac88c135d8487ce5a0ff9697c1000.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Alex Svanevik | Co-Founder of Nansen — From Data Scientist to Web3 Founder]]></title>
+      <itunes:title><![CDATA[Alex Svanevik | Co-Founder of Nansen — From Data Scientist to Web3 Founder]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, <strong>Kenzi Morikawa</strong> speaks with Alex Svanevik about the leap from data science into building a Web3 company — and why on-chain data becomes truly valuable only when it’s translated into decisions users can act on.</p><p>Alex breaks down the business model behind Nansen: turning raw blockchain activity into clear, user-friendly intelligence for traders, teams, and institutions — without losing the nuance that makes on-chain data powerful in the first place. They also talk about what it takes to scale a user-centric product in Web3: choosing the right customer, building workflows (not just dashboards), earning trust through accuracy, and staying focused while the market constantly tries to pull you into the next narrative.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796086</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796086/beaconlayer-podcast/2026_05_05_17_01_59_ede7a912-8b3f-4b8d-b5cc-1b220c22fb34.mp3" length="46379720" type="audio/mpeg"/>
+      <guid isPermaLink="false">c9f0c16e-9926-4adc-9c85-22ec9ea2eb7f</guid>
+      <itunes:duration>2898</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode>3</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 04 Jan 2025 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_050555_663385b9ff644ce7ad31c7b81ad5f05e.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Jeff “Jiho” Zirlin | Co-Founder of Axie Infinity — Turning Your Community into True Evangelists]]></title>
+      <itunes:title><![CDATA[Jeff “Jiho” Zirlin | Co-Founder of Axie Infinity — Turning Your Community into True Evangelists]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, <strong>Kenzi Morikawa</strong>, <strong>Sachi Miyasaki</strong>, and <strong>Diksha Wells</strong> speak with Jeff Zirlin (“Jiho”) about his early days in Web3, building Sky Mavis, and launching Axie Infinity alongside Trung Nguyen, Tu Doan, Aleksander Larsen, and Andy Ho.</p><p>Jiho talks about what it’s like building deep in a bear market — being “small and unrecognized,” but still stubbornly confident in the founding team, the long-term vision, and the community they were assembling. A core goal from the beginning was to create a Web3 community that rewards both technical contributors <em>and</em> people willing to learn. His founding principle captures it perfectly: childhood nostalgia can be one of the most compelling on-ramps to educate people about Web3.</p><p>The conversation also gets real about the hard parts: keeping the product moving while coordinating expectations with a passionate community. Jiho shares one of his biggest learnings — in Web3, you’re constantly thinking about what actions you’re trying to coordinate with the outside world, and whether you can truly deliver what you announce. That’s where aligned incentives, economic design, and the cold-start problem stop being theory and become survival skills.</p><p>Today, Axie Infinity is one of the most recognized play-to-earn NFT games in crypto. Tune in as Jiho dives into the play-to-earn economy, what he focuses on day-to-day as Chief Growth Officer, and how to turn a community from “users” into the network’s strongest evangelists.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796083</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796083/beaconlayer-podcast/2026_05_05_17_02_10_2a08752f-4735-462a-aba1-0fe47290550d.mp3" length="54247540" type="audio/mpeg"/>
+      <guid isPermaLink="false">d0e80e98-01ca-473e-bf86-630fc37bfc85</guid>
+      <itunes:duration>3214</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 23 Dec 2024 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_050512_3df1caf496e36f02350366cdef1da9b8.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Yat Siu | Co-Founder of Animoca Brands — Web3’s North Star is Digital Ownership]]></title>
+      <itunes:title><![CDATA[Yat Siu | Co-Founder of Animoca Brands — Web3’s North Star is Digital Ownership]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, <strong>Kenzi Morikawa</strong> speaks with Yat Siu about the idea that has guided Animoca Brands from the start: the “north star” of Web3 is <strong>digital ownership</strong> — not speculation, not hype, but the ability for people to truly own and control assets online.</p><p>Yat’s path into tech started unusually early. Coming from a musician family, he was training to be a musician when he began writing software on an Atari ST in the 1980s to read music notation. His teachers didn’t exactly love it — but other people did, enough that they paid him for the software. That early signal pushed him deeper into building. He later worked for Atari, then moved through roles at Silicon Graphics and AT&amp;T.</p><p>His first major entrepreneurial chapter was launching Hong Kong Cybercity — one of Asia’s earliest free webpage and email providers, later renamed Freenation — long before “Web3” was even a phrase. So when NFTs arrived and made digital items ownable in a real way, the jump felt less like a pivot and more like destiny.</p><p>In 2014, Yat co-founded Animoca Brands, which today builds across blockchain gaming and adjacent products (and increasingly AI-enabled experiences). In the conversation, he explains why NFTs unlocked something deeper than collectibles: <strong>property-like rights</strong> in digital spaces. That belief — that ownership creates powerful network effects as people build, remix, and compose on top of what they own — became the conviction that drove Animoca’s move toward blockchain, and the thesis they’ve been executing ever since.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796082</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796082/beaconlayer-podcast/2026_05_05_17_01_47_a382e7dd-f4ab-4305-b87d-3f0707b71e3d.mp3" length="79755500" type="audio/mpeg"/>
+      <guid isPermaLink="false">7acb9321-97eb-4b12-a0c5-16c2aee1cc7d</guid>
+      <itunes:duration>4812</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 13 Dec 2024 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_050551_453f5ee4eac1c9f50d26e26b528a5dec.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Matthew Gould | Founder & CEO of Unstoppable Domains — Building a Web3 Unicorn Without a Token]]></title>
+      <itunes:title><![CDATA[Matthew Gould | Founder & CEO of Unstoppable Domains — Building a Web3 Unicorn Without a Token]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, <strong>Kenzi Morikawa</strong>, <strong>Sachi Miyasaki</strong>, and <strong>Diksha Wells</strong> speak with Matthew Gould, Founder &amp; CEO of Unstoppable Domains, about building a digital-identity company in Web3 <em>without</em> leaning on a token — and why he believes that choice can be a long-term advantage, not a limitation.</p><p>Matthew unpacks what it takes to turn decentralized naming into a mainstream product: making self-custody feel intuitive, designing identity primitives people actually use, and building trust with users who may not care about crypto at all — they just want a better way to own their online presence.</p><p>They also get tactical on fundraising: what investors look for when the market is noisy, what founders should prioritize to stay fundable, and how to think about distribution, retention, and product clarity. Finally, Matthew lays out his contrarian take on token funding — why, in some cases, it can distort incentives, complicate governance, and even be harmful to protocols that would otherwise compound more sustainably.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796057</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796057/beaconlayer-podcast/2026_05_05_16_53_48_b3247d39-a8a3-4404-8099-32060148e616.mp3" length="48718202" type="audio/mpeg"/>
+      <guid isPermaLink="false">cdec7c45-d3b0-4bf6-9d69-3f2ca93bade6</guid>
+      <itunes:duration>3044</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>13</itunes:episode>
+      <podcast:episode>13</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 22 Nov 2024 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_040545_c6d0f9c5c08c11399e6f64eaea6b24a3.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Lily Liu | President of the Solana Foundation — Why Blockchain Ecosystems Are More Like Cities Than Companies]]></title>
+      <itunes:title><![CDATA[Lily Liu | President of the Solana Foundation — Why Blockchain Ecosystems Are More Like Cities Than Companies]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, <strong>Kenzi Morikawa</strong> speaks with Lily Liu, President of the Solana Foundation, about a framework that changes how you evaluate crypto networks: blockchains aren’t best understood as companies — they behave more like cities.</p><p>Lily is an entrepreneur and investor focused on crypto, with experience as a CFO and operating executive across the U.S., China, and a range of emerging markets. She’s the co-founder of Anagram, was part of the founding team behind Osmosis, and has advised Brave Software. Previously, she co-founded <a target="_blank" rel="noopener noreferrer nofollow" href="http://Earn.com">Earn.com</a>, which was acquired by Coinbase in 2018.</p><p>In the conversation, Lily explains why trying to “run a blockchain like a company” often caps its potential — and why ecosystems scale better when you think in terms of urban planning: public goods, infrastructure, governance, culture, incentives, and the messy reality of many independent actors building on shared rails. Tune in to hear her path into crypto — from early skepticism to conviction — and what she thinks separates ecosystems that last from those that fade.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796054</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796054/beaconlayer-podcast/2026_05_05_16_52_19_443a982f-ebab-41e8-bcd9-4a07cd09c1c5.mp3" length="65175486" type="audio/mpeg"/>
+      <guid isPermaLink="false">509af6ce-cf57-4369-a3ca-e5bbab7da70b</guid>
+      <itunes:duration>3942</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>12</itunes:episode>
+      <podcast:episode>12</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 11 Nov 2024 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_040535_6128239682c3871201d4eaa7861322be.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Harsh Rajat | Founder of Push Protocol — Market Sentiment, Fundraising, and the L1 Wars]]></title>
+      <itunes:title><![CDATA[Harsh Rajat | Founder of Push Protocol — Market Sentiment, Fundraising, and the L1 Wars]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, <strong>Kenzi Morikawa</strong>, <strong>Diksha Wells</strong>, and <strong>Sachi Miyasaki</strong> speak with Harsh Rajat about the real mechanics behind building infrastructure in crypto: how market sentiment changes what founders can ship (and what investors will fund), what it takes to raise in noisy cycles, and how the L1 “wars” look when you’re trying to stay chain-agnostic.</p><p>Push Protocol bills itself as the communication layer of Web3 — enabling cross-chain notifications and messaging for dapps, wallets, and services, all tied directly to wallet addresses. Harsh breaks down why messaging is still one of the most underbuilt primitives in crypto, what’s hard about building a protocol that has to work everywhere, and how distribution works when your “users” are both builders and ecosystems.</p><p>He also shares how the team approached the Ethereum Foundation for funding, what they learned (the hard way) about community building, the mentors and relationships that mattered most, and the principles they use to keep building when the market is either euphoric or brutal.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796051</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796051/beaconlayer-podcast/2026_05_05_16_49_40_dbb489a4-fbc6-4eec-8e27-3233b39e2932.mp3" length="78921186" type="audio/mpeg"/>
+      <guid isPermaLink="false">da6c4fd3-c15a-4a7f-945d-bce98a3e5343</guid>
+      <itunes:duration>4932</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>11</itunes:episode>
+      <podcast:episode>11</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 21 Oct 2024 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_050500_b36976fb0de925f098c2a372907dfeeb.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Jaynti “JD” Kanani | Co-Founder of Polygon — From Underdog to Champion]]></title>
+      <itunes:title><![CDATA[Jaynti “JD” Kanani | Co-Founder of Polygon — From Underdog to Champion]]></itunes:title>
+      <description><![CDATA[<p>Polygon is one of crypto’s most iconic underdog stories — and a big part of that mindset comes straight from Jaynti Kanani (JD). For him, the promise of Web3 is radically simple: if you’ve got a laptop and an internet connection, you can build something real — without permission, pedigree, or gatekeepers.</p><p>JD puts it bluntly: you don’t need to be public-facing, you don’t need Stanford University, and you don’t even need a traditional academic path. What matters is access, curiosity, and the will to ship — and he points to builders from small villages across India proving that every day.</p><p>In this episode of <strong>BeaconLayer Podcast</strong>, JD talks about his route into Web3, the hard lessons behind scaling Polygon from an early outsider into a global platform, and what he wants to see next: a Web3 that feels less like a club and more like infrastructure — where everyday developers can create, users can benefit without friction, and the technology quietly does its job in the background.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796047</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796047/beaconlayer-podcast/2026_05_05_16_49_30_4475ba43-aa9f-4757-ba59-ab6d964cda7d.mp3" length="60322308" type="audio/mpeg"/>
+      <guid isPermaLink="false">937edfc2-09ca-4411-9977-013d5be28147</guid>
+      <itunes:duration>3221</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>10</itunes:episode>
+      <podcast:episode>10</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 09 Oct 2024 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_040555_2ed4bcbc6c2a0fb0967e629fbc61ccd0.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Jack Lu | Co-Founder of Magic Eden — Going Multi-Chain, Building for Web3, and the Future of NFTs]]></title>
+      <itunes:title><![CDATA[Jack Lu | Co-Founder of Magic Eden — Going Multi-Chain, Building for Web3, and the Future of NFTs]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, <strong>Kenzi Morikawa</strong>, <strong>Diksha Wells</strong>, and <strong>Sachi Miyasaki</strong> sit down with Jack Lu, CEO and one of the four co-founders of Magic Eden, to talk through the platform’s evolution from a Solana-native NFT marketplace into a broader multi-chain hub — and what that shift says about where NFTs are actually going.</p><p>Before co-founding Magic Eden, Jack built experience across FTX, Google, and Boston Consulting Group. Magic Eden launched in September 2021 and quickly became a home base for Solana NFT collections. As the market matured, the team leaned into a multi-chain thesis — integrating Ethereum-based NFT collections and later adding Polygon as a third supported chain in November 2022, reinforcing their commitment to a multi-chain future.</p><p>The conversation gets into what “multi-chain” really means operationally (not just as a slogan), the trade-offs in supporting different ecosystems, and how marketplaces stay relevant when creators can mint anywhere and attention moves fast. Jack also shares why Magic Eden has focused so heavily on creator- and community-first tooling — including being among the earliest major marketplaces to ship a Launchpad-style experience to help creators create, mint, market, and launch collections more smoothly.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796041</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796041/beaconlayer-podcast/2026_05_05_16_45_43_e9a6b622-29f6-450e-8919-418fe3c89c66.mp3" length="54282910" type="audio/mpeg"/>
+      <guid isPermaLink="false">5c03f172-c5ec-4932-9677-8aa8acaa59e7</guid>
+      <itunes:duration>3392</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>9</itunes:episode>
+      <podcast:episode>9</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 11 Sep 2024 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_040529_92acefbc54b4677d047d09ffc4b8fe75.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Chris Gonsalves | CEO of Community Gaming — Web3 Gaming Ecosystems and eSports]]></title>
+      <itunes:title><![CDATA[Chris Gonsalves | CEO of Community Gaming — Web3 Gaming Ecosystems and eSports]]></itunes:title>
+      <description><![CDATA[<p>In this week’s episode of <strong>BeaconLayer Podcast</strong>, <strong>Kenzi Morikawa</strong> and <strong>Diksha Wells</strong> sit down with Chris Gonsalves, CEO of Community Gaming, to explore how modern gaming ecosystems are being rebuilt around ownership, on-chain incentives, and community-led competition — and what that means for the next era of eSports.</p><p>Chris walks through how Community Gaming came to life, the core problems it set out to solve for tournament organizers and players, and why Web3-native gaming infrastructure is fundamentally different from traditional eSports models. They also discuss what changes when tournaments, rewards, and identity can live on-chain: new monetization paths, new coordination mechanics, and new failure modes — plus Chris’s view on where Web3 gaming is likely headed as the space matures.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796037</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796037/beaconlayer-podcast/2026_05_05_16_45_22_ce0054ea-07a9-46dd-be47-414dc04c3d0a.mp3" length="62070417" type="audio/mpeg"/>
+      <guid isPermaLink="false">447e90a9-8c61-489e-a4f9-d8e782c4f531</guid>
+      <itunes:duration>3852</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>8</itunes:episode>
+      <podcast:episode>8</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 23 Aug 2024 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_040542_99c5584811e83a4d73670c5ee3697df7.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Sandeep Nailwal | Co-Founder of Polygon — Setbacks, Community, and the Polygon Rebrand]]></title>
+      <itunes:title><![CDATA[Sandeep Nailwal | Co-Founder of Polygon — Setbacks, Community, and the Polygon Rebrand]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, <strong>Kenzi Morikawa</strong> and <strong>Diksha Wells</strong> sit down with Sandeep Nailwal to unpack his journey building Polygon — from early setbacks and inflection points to the long, unglamorous work of earning developer trust at scale.</p><p>Sandeep shares how he first got pulled into crypto, why Polygon has always treated the builder community as the real moat, and what “community building” means when you’re supporting thousands of teams across different chains, tools, and narratives. They also dig into Polygon’s evolution and rebranding journey — what changes <em>externally</em> vs. what actually changes inside the product and org — plus Sandeep’s view on where Web3 is heading now, what’s overhyped, and what’s quietly compounding in the background.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796029</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796029/beaconlayer-podcast/2026_05_05_16_43_52_6d3500eb-aada-4e3e-8927-28b4eaacc79e.mp3" length="52987041" type="audio/mpeg"/>
+      <guid isPermaLink="false">f8a5d8b8-c2a7-4aee-aa30-9df007762562</guid>
+      <itunes:duration>3296</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>7</itunes:episode>
+      <podcast:episode>7</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 09 Jul 2024 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_040520_e0082c2eeede622eca38a43da307e712.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Lucas Vogelsang | Co-Founder of Centrifuge — The Future of DeFi]]></title>
+      <itunes:title><![CDATA[Lucas Vogelsang | Co-Founder of Centrifuge — The Future of DeFi]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, <strong>Kenzi Morikawa</strong> and <strong>Diksha Wells</strong> speak with Lucas Vogelsang, CEO and Co-Founder of Centrifuge, about one of DeFi’s most important frontiers: bringing real-world assets (RWAs) on-chain — a mission Centrifuge has pursued since the early days of Ethereum.</p><p>Lucas breaks down what “RWA DeFi” looks like in practice, why it matters for scaling DeFi beyond crypto-native use cases, and what needs to change for the next wave of adoption. The conversation also explores the Polkadot ecosystem, how Centrifuge thinks about infrastructure vs. applications, and what it’s really like being a founder building through a Web3 bear market.</p><p>Lucas has been passionate about computers and coding since early on. After seven years working in tech, a turning point came in 2017: he decided to take a direct swing at the financial system itself — using blockchain as the backbone for more open, programmable financial rails. That conviction became Centrifuge: a platform built to help businesses access capital against real-world value, so funding “future needs” becomes faster, more transparent, and more global.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796027</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796027/beaconlayer-podcast/2026_05_05_16_42_30_d6c5ae92-01cb-4937-9485-189e889e0e5e.mp3" length="52870843" type="audio/mpeg"/>
+      <guid isPermaLink="false">e7140311-f53b-4288-b666-0a0551298d4d</guid>
+      <itunes:duration>3295</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>6</itunes:episode>
+      <podcast:episode>6</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 22 Jun 2024 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_040554_5ef1778cb2fe06ca2faaf12309422531.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Sota Watanabe | Co-Founder of Astar Network — Web3 Valuations and the Future of Decentralization]]></title>
+      <itunes:title><![CDATA[Sota Watanabe | Co-Founder of Astar Network — Web3 Valuations and the Future of Decentralization]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, <strong>Kenzi Morikawa</strong> speaks with Sota Watanabe about what it’s like building as a Japanese founder in crypto, the factors that most strongly shape Web3 valuations, and why the multichain future is more practical than it is ideological. They also dig into what’s next at Astar — and how the team thinks about positioning smart contracts in a world where ecosystems are no longer “either/or.”</p><p>Before co-founding Astar in Japan in 2018, Sota studied information technology at San Francisco State University in the U.S., then worked in the San Francisco Bay Area at Chronicled, a blockchain startup. After returning to Japan, he became a blockchain researcher at The University of Tokyo. A turning point came when Gavin Wood visited Japan and spoke about Web3 — a moment that helped crystallize Sota’s conviction that Astar could become a smart-contract hub for a multichain world, built within the Polkadot ecosystem.</p><p>What follows is a tight, edited set of highlights from the conversation — equal parts founder story, valuation mechanics, and a forward-looking view on where decentralization is actually headed.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796017</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796017/beaconlayer-podcast/2026_05_05_16_41_09_202f1c72-e732-4cfc-a198-845c4e8e28c0.mp3" length="83439294" type="audio/mpeg"/>
+      <guid isPermaLink="false">c61e28e7-e3e9-4191-917a-7eb0d7830e1e</guid>
+      <itunes:duration>5199</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode>5</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 07 May 2024 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_040541_31b5e2915916df160689857d663fadcf.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Nischal Shetty | Founder of Shardeum — Building in Web3 and Why Community Matters]]></title>
+      <itunes:title><![CDATA[Nischal Shetty | Founder of Shardeum — Building in Web3 and Why Community Matters]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, <strong>Kenzi Morikawa</strong> and <strong>Diksha Wells</strong> speak with Nischal Shetty (Founder of WazirX and Shardeum) about decentralization done right, what <em>real</em> community-building looks like beyond hype, and how to survive long enough in Web3 to actually ship.</p><p>Before WazirX and Shardeum, Nischal began his entrepreneurial path in 2010 by building a social media product that started as <strong>JustUnfollow</strong> and later evolved into Crowdfire. At the time, he was still working a day job — coding nights, weekends, and any spare minutes — driven by a simple insight: creators and small teams needed one place to manage accounts across Instagram, Facebook, and other platforms. The product scaled to tens of millions of users.</p><p>But in 2017, major social networks began shifting platform rules and access, disrupting whole businesses that depended on them. That inflection point pushed Nischal toward a different foundation: building on decentralized rails where the platform can’t unilaterally change the rules. From there, the conversation connects the dots — from lessons learned in Web2 distribution to what it takes to design resilient networks, earn trust, and build communities that don’t vanish the moment incentives change.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796015</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796015/beaconlayer-podcast/2026_05_05_16_39_39_517ad6d7-009d-4d13-b6bc-0e3849c10532.mp3" length="83828789" type="audio/mpeg"/>
+      <guid isPermaLink="false">61ecdc5f-d115-45a1-9acb-fdd39377a9cf</guid>
+      <itunes:duration>5222</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode>4</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 21 Apr 2024 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_040529_e336ffc581231fe7d2a7b0c7a1289cdb.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Andrew Durgee | President of Republic Crypto — Building a Fund in Volatile Markets]]></title>
+      <itunes:title><![CDATA[Andrew Durgee | President of Republic Crypto — Building a Fund in Volatile Markets]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, <strong>Kenzi Morikawa</strong> speaks with Andrew Durgee about how Republic is structured, what each part of the business does, and how the team keeps moving through sharp market swings — including the fallout from the Terra collapse.</p><p>They break down Republic’s multi-entity setup (a holding company alongside Republic Retail, Republic Capital, and Republic Crypto), and the mission that ties it together: widening access to investing and building a more inclusive financial system.</p><p>Andrew also explains why that mission runs head-first into U.S. regulation — especially the accreditation framework that restricts early-stage startup investing for most retail participants. The episode unpacks what those thresholds look like in practice (income and net-worth requirements), how they shape who gets to participate, and why navigating that reality is central to Republic’s strategy.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2796005</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2796005/beaconlayer-podcast/2026_05_05_16_38_10_0439dcb2-2fe4-475f-a58f-95dbec33e4e7.mp3" length="72115804" type="audio/mpeg"/>
+      <guid isPermaLink="false">1d55dabc-5e02-4962-a8f4-91df98fd8e56</guid>
+      <itunes:duration>4497</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode>3</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 05 Mar 2024 12:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_040544_a519615055b2888f7f5e58d49f10953f.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Ciara Sun | Founder & Managing Partner of C² Ventures — Investing in Web3 Founders, Valuations, and Women in Crypto]]></title>
+      <itunes:title><![CDATA[Ciara Sun | Founder & Managing Partner of C² Ventures — Investing in Web3 Founders, Valuations, and Women in Crypto]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, <strong>Kenzi Morikawa</strong> and <strong>Sachi Miyasaki</strong> sit down with <strong>Ciara Sun</strong>, Founder &amp; Managing Partner of <strong>C² Ventures</strong>, for a candid conversation about investing through market cycles, how valuations <em>actually</em> get shaped in Web3, and what it means to build and lead in crypto as a woman.</p><p>Before entering Web3, Ciara built her foundation as a management consultant at Boston Consulting Group and Deloitte, then spent years across banking, capital markets, and private equity. Her crypto journey began in New York City in 2017, when the city was becoming a magnet for blockchain builders and investors. Seeing how digital assets and blockchain could unlock a more inclusive global economy, she later joined Huobi, where she worked across international business development, partnerships, and led the global markets institutional business unit.</p><p>That experience ultimately set the stage for launching C² Ventures — a firm focused on backing the builders behind the next generation of Web3 and metaverse applications, and helping founders turn conviction into durable companies.</p><p>This episode was supported by <strong>Diksha Wells</strong>.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2795984</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2795984/beaconlayer-podcast/2026_05_05_16_32_28_b8c70069-ea8d-43f1-9c50-590b18e5fc0c.mp3" length="57882000" type="audio/mpeg"/>
+      <guid isPermaLink="false">a5c3333d-4871-424b-8f9a-b1d136bdf1f1</guid>
+      <itunes:duration>3613</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 20 Feb 2024 12:00:00 GMT</pubDate>
+      <podcast:txt purpose="ai-content">true</podcast:txt>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_040548_aa652a7f037ed369dea611f62379f4c6.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Miles Anthony | Founder of Decentral Games — Building & Scaling Play-to-Earn in the Metaverse]]></title>
+      <itunes:title><![CDATA[Miles Anthony | Founder of Decentral Games — Building & Scaling Play-to-Earn in the Metaverse]]></itunes:title>
+      <description><![CDATA[<p>In this episode of <strong>BeaconLayer Podcast</strong>, Kenzi Morikawa sits down with Miles Anthony, Founder of Decentral Games — a project creating on-chain casino experiences designed around aligned incentives, self-custody, and delegated access to yield-bearing metaverse assets.</p><p>Originally launched in closed beta in September 2019, Decentral Games has expanded into a full suite of titles including poker, blackjack, roulette, backgammon, and slots. Miles shares the real story behind building play-and-earn poker in the metaverse: what it takes to keep a game fun <em>and</em> sustainable, how the team navigated product-market fit, what they learned along the way, and where he thinks Web3 gaming is heading next.</p><p>This episode was supported by Diksha Wells and Sachi Miyasaki.</p>]]></description>
+      <link>https://rss.com/podcasts/beaconlayer-podcast/2795845</link>
+      <enclosure url="https://content.rss.com/episodes/385049/2795845/beaconlayer-podcast/2026_05_05_15_23_37_c6a5734d-d1a5-4cc3-bff5-4bbae062d6e0.mp3" length="74308050" type="audio/mpeg"/>
+      <guid isPermaLink="false">965cb2c8-314a-4729-bacf-3ade8ec147dd</guid>
+      <itunes:duration>4628</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 03 Jan 2024 12:00:00 GMT</pubDate>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/beaconlayer-podcast/ep_cover_20260505_030556_05884975908f0088abd9bb5d859730fe.png"/>
+    </item>
+  </channel>
+</rss>
